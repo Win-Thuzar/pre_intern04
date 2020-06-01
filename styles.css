@@ -1,0 +1,153 @@
+
+.header{
+    position:absolute;
+    background-color:rgb(39,118,75);
+    width: 100%;
+    height: 10%;
+    top:0;
+    left: 0;
+}
+.titles{
+    position: absolute;
+    background-color: gray;
+    top:60px;
+    left:0px;
+    width:100%;
+h   height: 10%;
+}
+.mainbody{
+    position: absolute;
+    background-color: white;
+    width:100%;
+    height:80%;
+    top:120px;
+    left:0px;
+}
+.mainbody1{
+    position: absolute;
+    background-color: white;
+    width:100%;
+    height:80%;
+    top:80px;
+    left:0px;
+}
+.links{
+    position: absolute;
+    background-color:rgb(241,241, 242);
+    width: 100%;
+    height:70%;
+    top:600px;
+    left:0px;
+}
+.footer{
+    position:absolute;
+    background-color:rgb(39,118,75);
+    width:100%;
+    height:5%;
+    top:1000px;
+    left:0px;
+}
+.logo{
+    position: absolute;
+    width:30%;
+    margin-left: 100px;
+}
+.imagelogo{
+    margin:10px;
+}
+.menu{
+    background-color: background-color:rgb(39,118,75);
+    margin-left: 500px;
+    width: 70%;
+}
+.menu ul{
+    padding-left:20px;
+}
+.menu ul li{
+    font-size: 20;
+    color:white;
+    float:left;
+    list-style: none;
+    padding-left:35px;
+}
+.fontstyle{
+    padding: 10px;
+    text-align:center;
+    color:black;
+    font-size:120 px;
+    font-family: Georgia ;
+}
+.paragraph{
+    position: absolute;
+    width:50%;
+    height:100%;
+}
+
+.images{
+    position: absolute;
+    width:50%;
+    height:100%;
+    left: 650px;
+    padding:20px;
+    margin: 10px;
+    
+}
+.quick{
+    padding-left: 10px;
+    width:30%;
+    height:100%;
+    left: 100px;
+    position: absolute;
+}
+.contact{
+    width:30%;
+    height:100%;
+    left: 400px;
+    position: absolute;
+}
+.facebook{
+    width:30%;
+    height:100%;
+    margin-left:800px;
+    position: absolute;
+}
+.fblogo{
+    padding:20px;
+    height:25%;
+    width:100%;
+    
+}
+.fblogo1{
+    position: absolute;
+    width: 25%;
+    height: 25%;
+
+}
+.fblink{
+    position: absolute;
+    left: 100px;
+    width: 60%;
+    height:25%;
+}
+.posts{
+    margin-top:10px;
+    height:65%;
+    width:100%;
+    overflow-y: auto;
+}
+.office{
+    position: absolute;
+    left:0;
+    top:80px;
+    width: 40%;
+    height:100%;
+    padding-left:60px;
+}
+.contactus{
+    position: absolute;
+    left:700px;
+    top:80px;
+    width:40%;
+    height: 100%;
+    padding:20px;
+}
